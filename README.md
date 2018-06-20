@@ -16,3 +16,6 @@ Paste the following into your User Settings: [settings.json](./settings.json) an
 - Prettier - Code formatter
 - Version Lens
 - Vetur
+
+## Font:
+Visit [Fira Code](https://github.com/tonsky/FiraCode) and follow the installation steps to enable ligatures.
