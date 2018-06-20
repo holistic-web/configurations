@@ -18,6 +18,8 @@ Paste the following into your User Settings: [`settings.json`](./settings.json).
 - Vetur
 
 ### Configuration:
+Add the following files to the root of your project with the relevant extension enabled to make life easier.
+
 - [`.editorconfig`](./.editorconfig) - File formatting
 - [`.eslintrc.js`](./.eslintrc.js) - Javascript linting settings
 - [`.eslintignore`](./.eslintignore) - Further javascript formatting settings
