@@ -1,20 +1,21 @@
-# VS Code Setup
+# VS Code Config
+Settings for an easy going, enjoyable development experience when working with `node.js` in Visual Studio Code.
 
 ## Settings:
 
 Paste the following into your User Settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
 
 ## Extensions:
-- Auto Rename Tag
-- Bracket Pair Colorizer
-- Cobalt2 Theme Official
-- Docker
-- EditorConfig for VScode
-- ESLint
-- Gitlens - Git supercharged
-- Material Icon Theme
-- Prettier - Code formatter
-- Version Lens
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [EditorConfig for VScode](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Gitlens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - Vetur
 
 ### Configuration:
