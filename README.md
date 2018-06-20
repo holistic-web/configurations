@@ -2,7 +2,7 @@
 
 ## Settings:
 
-Paste the following into your User Settings: [settings.json](./settings.json) and customize font-size, etc to your preference.
+Paste the following into your User Settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
 
 ## Extensions:
 - Auto Rename Tag
@@ -16,6 +16,11 @@ Paste the following into your User Settings: [settings.json](./settings.json) an
 - Prettier - Code formatter
 - Version Lens
 - Vetur
+
+### Configuration:
+- [`.editorconfig`](./.editorconfig) - File formatting
+- [`.eslintrc.js`](./.eslintrc.js) - Javascript linting settings
+- [`.eslintignore`](./.eslintignore) - Further javascript formatting settings
 
 ## Font:
 Visit [Fira Code](https://github.com/tonsky/FiraCode) and follow the installation steps to enable ligatures.
