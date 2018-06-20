@@ -1,0 +1,39 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.activityBar.visible": true,
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ],
+    "prettier.eslintIntegration": true,
+    "git.autofetch": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 12,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "boundary",
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Fira Code, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.fontWeight": "400",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.insrtSpaces": false,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "search.location": "panel",
+    "csharp.suppressDotnetInstallWarning": true
+
+}
