@@ -16,7 +16,7 @@ Paste the following into your User Settings: [`settings.json`](./settings.json).
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
-- Vetur
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ### Configuration:
 Add the following files to the root of your project with the relevant extension enabled to make life easier.
