@@ -3,7 +3,7 @@ Settings for an easy going, enjoyable development experience when working with [
 
 ## Settings:
 
-Paste the following into your User Settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
+Paste the following into your user settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
 
 ## Extensions:
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
