@@ -1,5 +1,5 @@
 # VS Code Config
-Settings for an easy going, enjoyable development experience when working with `node.js` in Visual Studio Code.
+Settings for an easy going, enjoyable development experience when working with [`node.js`](https://nodejs.org/en/) in [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Settings:
 
