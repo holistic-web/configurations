@@ -4,6 +4,7 @@ Settings for an easy going, enjoyable development experience when working with [
 ## Settings:
 
 Paste the following into your user settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
+This can be done within the VSCode editor - instructions can be found in here: https://code.visualstudio.com/docs/getstarted/settings
 
 ## Extensions:
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
