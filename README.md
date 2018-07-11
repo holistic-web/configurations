@@ -5,6 +5,8 @@ Settings for an easy going, enjoyable development experience when working with [
 
 Paste the following into your user settings: [`settings.json`](./settings.json). Then customize font-size, etc to your preference.
 
+This can be done within the VSCode editor - detailed instructions can be found [here](https://code.visualstudio.com/docs/getstarted/settings).
+
 ## Extensions:
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
