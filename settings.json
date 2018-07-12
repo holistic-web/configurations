@@ -30,10 +30,8 @@
     "editor.fontWeight": "400",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
-    "editor.insrtSpaces": false,
+    "editor.insertSpaces": false,
     "files.trimTrailingWhitespace": true,
     "files.autoSave": "onFocusChange",
-    "search.location": "panel",
-    "csharp.suppressDotnetInstallWarning": true
-
+    "search.location": "panel"
 }
