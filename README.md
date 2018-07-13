@@ -29,3 +29,8 @@ Add the following files to the root of your project with the relevant extension 
 
 ## Font:
 Visit [Fira Code](https://github.com/tonsky/FiraCode) and follow the installation steps to enable ligatures.
+
+## Git troubleshooting:
+If you are having troubles with git and logging in, [see this link.](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+
